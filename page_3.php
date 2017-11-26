@@ -1,0 +1,1 @@
+﻿<img ondrag="return false" ondragdrop="return false" ondragstart="return false"  src="images/page3/page3.png" alt="" class="lft"/>
